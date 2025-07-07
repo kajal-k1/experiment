@@ -1,13 +1,28 @@
 
-import React from 'react';
+// import React from 'react';
 
-function App() {
-  return (
-    <div>
-      <h1>Hello, World!</h1>
-    </div>
-  );
-}
+// function App() {
+//   return (
+//     <div>
+//       <h1>Hello, World! this is the NAVBAR</h1>
+//       <p>HELLO!!111</p>
+//     </div>
+//   );
+// }
 
-export default App;
+// export default App;
+
+
+ import React from 'react';
+
+ function App() {
+   return (
+     <div>
+       <h1>Hello, World! this is the NAVBAR</h1>
+       <p>HELLO!!111</p>
+     </div>
+   );
+ }
+
+ export default App;
 
